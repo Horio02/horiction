@@ -35,9 +35,9 @@ plugins:
   - jekyll-feed
 
 encding: utf-8
-plugins:
-  - jekyll-github-metadata
-github : [metadata]
+#plugins:
+#  - jekyll-github-metadata
+#github : [metadata]
 repository: Horio02/horiciton # 自分のアカウントとリポジトリを書きましょう
 
 # Exclude from processing.
